@@ -3,8 +3,7 @@ export default function Footer() {
     <>
       <footer>
         Made with{' '}
-        <img src="/netliheart.svg" alt="Netlify Logo" className="logo" /> for
-        you
+        <img src="/netliheart.svg" alt="Netlify Logo" className="logo" /> by Richard Dowie, Fred Sladen & Sons Ltd, Christchurch,NZ
       </footer>
       <style jsx>{`
         footer {

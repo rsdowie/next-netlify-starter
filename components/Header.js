@@ -1,3 +1,6 @@
 export default function Header() {
-  return <h1 className="title">Welcome to my app!</h1>
+  return (
+   <div style="background-color:grey">
+    <h1 className="title">Jeweller's Calculator</h1>
+    </div>
 }
